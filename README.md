@@ -1,3 +1,7 @@
+.env file containing the Hugging Face API key has been removed from the repo
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
